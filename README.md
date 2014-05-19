@@ -346,7 +346,7 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
 
 <a name="mashup">Mash-up with fellow sponsors' APIs</a>
 --
-Hit more birds with 1 stone with these Concur integration ideas.
+Hit multiple birds with 1 stone with these Concur integration ideas.
 
 Mashup | Idea
 ------------- | -------------
@@ -357,8 +357,7 @@ Concur + Twitter | No time for leisure travel on a business trip? [Tweet](https:
 Concur + Pubnub | Build a Swarm clone for business travelers! [Biz Swarm]((http://www.pubnub.com/developers/))! *tagish!*
 Concur + Eagle Eye Networks | Take [selfies](http://www.eagleeyenetworks.com/support/api-docs/) at various locations in a hotel (Need help here?)
 Concur + Mojio | Compute and submit car mileage expense 
-Concur + Orchestrate | Add rich [Orchestrate](https://orchestrate.io/docs/api/) meta-data to a Concur user
-s travel and expense for interesting data analysis (e.g. Add restaurant POIs to a Concur user's T&E data to identify opportunities and trends - he could have saved $35 on coffee if he just walked around the block) 
+Concur + Orchestrate | Add rich [Orchestrate](https://orchestrate.io/docs/api/) meta-data to a Concur user's travel and expense for interesting data analysis (e.g. Add restaurant POIs to a Concur user's T&E data to identify opportunities and trends - he could have saved $35 on coffee if he just walked around the block) 
 Concur + Wit.ai | Hold up a receipt to your phone camera and [say the total](https://wit.ai/docs/quickstart) so that it gets sent directly to your Concur expense
 Concur + SecureKey | Tighten your own Concur Expense/Travel app with [Securekey](http://developer.securekey.com/development/api-guides/)
 
