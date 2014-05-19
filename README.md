@@ -1,18 +1,17 @@
-<img src="https://jfqcza.bn1.livefilestore.com/y2paqP_3uagi8J3WlP4-pNt4kJoOzRKmuohSQUsrjaegIaoNbNZJ7EXLEflIO6XYAOKM6scpKxbtXPg10RL5OO3A9bc6m-zERVRHUYB1OEGq8s/Concur_Logo_VT_Color_500px.png?psid=1" width="90px" />&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration:none; color:black" name="top" >Concur Disrupt</a> &nbsp;&nbsp;&nbsp;<img src="https://jfqcza.bn1304.livefilestore.com/y2pGKvnveN12SnmoryMSg647qwDe4JMLBQ6nVqhBnsOUXY7O3i-jhRIHQXY2dVO1sU2hECixL7OwrE78ntEx7msUA_YLr15z3TuD7MUTk459f4/Screen%20Shot%202014-04-23%20at%203.23.18%20PM.png?psid=1" width="150px" />
+<img src="https://jfqcza.bn1.livefilestore.com/y2paqP_3uagi8J3WlP4-pNt4kJoOzRKmuohSQUsrjaegIaoNbNZJ7EXLEflIO6XYAOKM6scpKxbtXPg10RL5OO3A9bc6m-zERVRHUYB1OEGq8s/Concur_Logo_VT_Color_500px.png?psid=1" width="90px" />&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration:none; color:black" name="top" >Concur @ #APIConSF </a> &nbsp;&nbsp;&nbsp;<img src="https://jfqcza.bn1301.livefilestore.com/y2ptjgicP0ebOjYyHeIih7kFg5r2UQWMkL2pdY6M_TPX4tSdTM-NaKW1UF1fiqIdhtiS8mG9uYx1Dzzc-BNKYewC13H-UkBpUx-38WpJITCapA/Screen%20Shot%202014-05-19%20at%203.04.22%20PM.png?psid=1" width="110px" />
 =========
 <br/>
-This page contains information and links to all the resources you need for the **Concur Contest** in TechCrunch Disrupt 2014 New York:
+This page contains information and links to all the resources you need for the **Concur Contest** in #APIConSF Hackathon:
 
-  - [Best use of Concur API](#prizes)
+  - [Prize for **Best use of Concur API**](#prizes)
   - [What is Concur?](#concur)
   - [What information can I get from the Concur APIs?](#apis)
   - [I'm sold.. How do I get started?](#getstarted)
-  - [Other API calls/samples to check out](#other)
-  - [Sample code](#samplecode)
+  - [Other often-used API calls to check e.g. *POST itinerary information*](#other)
+  - [Sample code/libraries](#samplecode)
   - [Help! I'm stuck!](#help)
-  - [TC Disrupt Hackathon Sponsor API Links and Prizes #hackdisrupt](#sponsors)
-  - [Mashup with our fellow sponsors' APIs](#mashup)
-  - [Contest Terms and Conditions](#terms)
+  - [#APIConSF Sponsor API Links and Prizes](#sponsors)
+  - [Mashup with fellow sponsors' APIs](#mashup)
 
 <a name="prizes">Best use of Concur API:</a>
 ----
@@ -25,9 +24,9 @@ This page contains information and links to all the resources you need for the *
 
  <img src='https://jfqcza.bn1303.livefilestore.com/y2pDadi2n4fFfdP7nP7r8tv0mYI0vjDmw1VAHp2h7wAz63qmdTheO7CFZNoMHVUM1AYm9-Ur3YHeR8RrN6yJyw0J_UVEqVwCsTqaxqYte1v6Fg/1.png?psid=1' width="200px"/> <img src='https://jfqcza.bn1302.livefilestore.com/y2pbj4PSh8gAbIicwDnrsPoA2qzBF7mZRE9iN6-tiMl7bE0VpuarZE5fGiQJXBPsZ5bLZoK-POwjWMOeTVh5I-2vr9YMxwnN8zjx08fvWHnE04/2.png?psid=1' width="200px" /> <img src='https://jfqcza.bn1301.livefilestore.com/y2pN7PVESkTt9qgjdCJk-aTmoCdKwZ8HonrNlTzylZPrgs_4rWesCjgd9SBV7xAx7BSaQ4c8wwU9GCCplNeGxfqCQPy-2gcw7c6T5n8O-Bm-y4/3.png?psid=1' width="200px" />
 
-Concur started out as a company that helped business travelers manage their receipts and reimbursements.  If you've ever filled out an Excel sheet to itemize all your expense items, or carried a separate envelope to make sure you don't lose all your receipts for reimbursement, then you understand the pain that Concur solves for business travelers.  Using software, Concur set out to remove these unnecessary troubles.  
+**Concur started out as a company that helped business travelers manage their receipts and reimbursements**.  If you've ever filled out an Excel sheet to itemize all your expense items, or carried a separate envelope to make sure you don't lose all your receipts for reimbursement, then you understand the pain that Concur solves for business travelers.  Using software, Concur set out to remove these unnecessary troubles.  
 
-Fast forward to today, through Concur you can take a picture of your receipts (and rid yourself of the paper receipt mayhem), itemize expense (using OCR and E-Receipts), submit your expense reports, and even book a company policy-compliant travel (*"Will my boss approve this?"*). This saves companies time and money, and ensures that their business travelers are productive.
+Fast forward to today, through Concur you can **take a picture of your receipts** (and rid yourself of the paper receipt mayhem), **itemize expense** (using OCR and E-Receipts), **submit your expense reports**, and even **book a company policy-compliant travel** (*"Will my boss approve this?"*). This saves companies time and money, and ensures that their business travelers are productive.
 
 Over 25 million people in 190 countries and over 65 percent of the Fortune 500 trust Concur to process $50 billion in travel and expense data per year.  We help these 25M business travelers manage their travel bookings and expense reports through the Concur Travel and Expense web/mobile app. 
 
@@ -81,7 +80,7 @@ A similar call to get an Itinerary List of a Concur user would be:
 
         -H "Content-Type:application/json"
 
-To get an access token, send an email to chris.ismael@concur.com (our Developer Evangelist)
+To get an access token, send an email to chris.ismael@concur.com (our Developer Evangelist) or approach him at the Concur booth and say "Gimme!"
 
 You can also give our [Swagger API documentation](https://www.concursolutions.com/api/docs/index.html) a spin.  We'll cover Swagger in a bit more detail below.
 
@@ -92,7 +91,7 @@ The section explains how to properly authenticate against the Concur APIs by gen
 
 **Get a Developer sandbox account**
 
-A developer sandbox account allows you to test both the app and APIs, free of charge.  For the purposes of this hackathon, we have set up 50 developer accounts (using non-existent email addresses and pre-populated with Expense and Itinerary information) so that you can start using them right away.  To get one of these accounts, please email chris.ismael@concur.com with the Subject: Disrupt Sandbox.  
+A developer sandbox account allows you to test both the app and APIs, free of charge.  For the purposes of this hackathon, we have set up developer accounts (using non-existent email addresses and pre-populated with Expense and Itinerary information) so that you can start using them right away.  To get one of these accounts, please email chris.ismael@concur.com with the Subject: Concur Sandbox Request.  
 
 If you prefer to set up your own free sandbox, you can do so by registering [here](https://developer.concur.com/register).  Note that the setup steps right after you login requires you to keep clicking 'Next' (for the most part) until you get to the end.  If you get stuck, reach out to chris.ismael@concur.com or send him a tweet @chrispogeek
 
@@ -163,7 +162,7 @@ The steps below show how we can generate an access token for the API call, use t
 
 [Back to Top](#top)
 
-<a name="other">Other API calls/samples to check out:</a>
+<a name="other">Often-used API calls/samples:</a>
 --
 
 **How to make a POST call to create an itinerary:**
@@ -325,6 +324,18 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
 
 <a name="help">Help! I'm stuck!</a>
 --
+ - How do I GET/POST JSON?
+ 
+   **To get a JSON response**, you can do a GET call like below:
+
+        curl https://www.concursolutions.com/api/v3.0/expense/reportdigests
+        -H "Authorization: OAuth <insert your access token here>"   
+        -H "Accept: application/json"
+        
+   **To POST JSON content**, add the following header:
+
+        -H "Content-Type:application/json"
+
  - If you're getting an error when submitting an expense report, it's likely because you have not set up an Account Code for an expense item type (i.e. Account Code `111` for the `Breakfast` type).  To fix this, go to **Setup -> Expense -> 4)Expense -> Expense Types -> 2) Account Code** (as in the screenshot below), and fill out account codes for expense types you're using.  Remember to hit the Save button (right beside the drop-down with the value DEFAULT).
  
  <img src="https://jfqcza.bn1303.livefilestore.com/y2pP9WXkTCzHaovVGVCj0p4K2D3Z2mVS2H6doVFHOS6NXp86kiKYK-upPireIAt7UMR-7zWXoyuYDGV2IJ2d4-HsYFZ1elTzJn3XDzwvXiDxuA/Screen%20Shot%202014-05-01%20at%206.02.26%20PM.png?psid=1" width="600px" />
@@ -333,42 +344,45 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
 
 [Back to Top](#top)
 
-<a name="sponsors">TC Disrupt Hackathon Sponsor API Links and Prizes</a>
---
-
-Sponsor  | Prizes
-------------- | -------------
-[Concur Technologies](http://bit.ly/ConcurDisrupt)   | $2500 worth of Amazon gift cards ($500 each team member) for best use of Concur APIs + $100 per team (10) that use Concur APIs (excluding $500 gift card winners)
-[Yodlee Interactive](http://developer.yodlee.com/Hackathons/NY_Disrupt_2014)  | $2500 in value of VISA gift cards as well as Dr Dre Beats Pill speakers (1 speaker for each member of the winning team up to 4).
-[Mailjet](http://blog.mailjet.com/post/83100778827/mailjets-gearing-up-for-techcrunch-disrupt) | 1st place: 1 year silver membership, $1500, $350 Fancy gift card, 20 GB karma hotspot; 2nd place: 6 months silver membership, $1000, $150 Fancy gift card, 5 GB Karma hotspot; 3rd place: 6 months bronze membership, $250, 2 GB Karma hotspot
-[Yammer](https://developer.yammer.com/restapi/) | Xbox One, Nokia Lumia Icon
-[Microsoft](http://azure.microsoft.com/en-us/documentation/) | Best in Azure Award: This Award is for the best use of Cloud Services with Microsoft Windows Azure. Points will be awarded based on overall User Experience, and usage of Azure Web Sites (1 point), Virtual Machines (2 points), Azure Storage (Blobs, Tables, Queues) (3 points), Azure Mobile Services (4 points) and/or Additional Azure usage (ie, SQL Databases, Service Bus, Active Directory, etc) (5 points). Whether you are creating an iOS, Android or Windows app, the more Azure you use, the more points you earn. The Winning team will be awarded a $400 Gift Card for each team member, up to 5 team members total. (total prize value $2,000)
-[Weather Underground](http://www.wunderground.com/weather/api/) | We’re giving away a $1,000 gift card to the best use of the Weather Underground weather API
-[Pearson](https://developer.pearson.com/apis/) | Amazon Gift Cards 
-[Esri](https://developers.arcgis.com) | 
-[Evernote](http://dev.evernote.com/) | Grand Evernote Prize Awarded to the best overall app that connects with the Evernote API. All members (4 max) win: Apple iPad Minis and 1 year of Evernote Premium (each)
-[Crunchbase](http://developer.crunchbase.com/) | Best Use of CrunchBase API – $500
-
-[Back to Top](#top)
-
-<a name="mashup">Mash-up with our fellow sponsors' APIs</a>
+<a name="mashup">Mash-up with fellow sponsors' APIs</a>
 --
 Hit more birds with 1 stone with these Concur integration ideas.
 
 Mashup | Idea
 ------------- | -------------
-Concur + Yodlee | Take a list of transactions pulled from the [Yodlee API](http://developer.yodlee.com/Hackathons/NY_Disrupt_2014) and select/insert them into Concur for expenses. Build an app that takes Concur travel expenses and checks against the user's bank and credit card activity so that the user can have status that they've been reimbursed. 
-Concur + Mailjet | Type expenses line by line in email and send them to Concur through [Mailjet](http://blog.mailjet.com/post/83100778827/mailjets-gearing-up-for-techcrunch-disrupt) SMTP
-Concur + Yammer | Find out if your travel overlaps with a co-worker in [Yammer](https://developer.yammer.com/restapi/)) and meet up! Or save on travel expense by sharing a taxi ride (if you're arriving on the same airport at the same time)
-Concur + Microsoft Azure | Use [Azure Mobile Services](http://azure.microsoft.com/en-us/develop/mobile/) as scaffolding for your Concur app
-Concur + Weather (Wunderground) | Determine [weather](http://www.wunderground.com/weather/api/) on a Concur users travel date and destination
-Concur + Pearson | Use [Pearson's Eyewitness Guide API](https://developer.pearson.com/apis/eyewitness-guides/) to augment a Concur user's destination with interesting travel information
-Concur + Esri | Use [Esri's](https://developers.arcgis.com) different mapping layers/functionalities to add visual context to a Concur user's destination
 Concur + Evernote | Auto-upload receipt images dropped in an [Evernote](http://dev.evernote.com/) folder
-Concur + Crunchbase | Check [startups](http://developer.crunchbase.com/) to visit in area of a Concur user's travel destination
+Concur + Getty Images | Create a [Getty](http://api.gettyimages.com/) photo/video collage of a traveler's itinerary (search images for "Hotel Fairmont San Francisco") to familiarize him/her with the location prior to arrival
+Concur + Nexmo | Auto-share your [Nexmo](https://www.nexmo.com/) number to colleagues based on destination country (from Concur).  At the end of your business trip, automatically send your boss an email on how much money you saved the company by accepting SMS/calls through your Nexmo number.
+Concur + Twitter | No time for leisure travel on a business trip? [Tweet](https://dev.twitter.com/) random images of places you will never go to, based on your Concur travel destination. Personalize your tweets by pulling Concur expense history (e.g. "Machiatto! [Pic] You all know I heart coffee!"). *This idea was inspired by "Wisconsin" in TechCrunch Disrupt NY Hackathon 2014*
+Concur + Pubnub | Build a Swarm clone for business travelers! [Biz Swarm]((http://www.pubnub.com/developers/))! *tagish!*
+Concur + Eagle Eye Networks | Take [selfies](http://www.eagleeyenetworks.com/support/api-docs/) at various locations in a hotel (Need help here?)
+Concur + Mojio | Compute and submit car mileage expense 
+Concur + Orchestrate | Add rich [Orchestrate](https://orchestrate.io/docs/api/) meta-data to a Concur user
+s travel and expense for interesting data analysis (e.g. Add restaurant POIs to a Concur user's T&E data to identify opportunities and trends - he could have saved $35 on coffee if he just walked around the block) 
+Concur + Wit.ai | Hold up a receipt to your phone camera and [say the total](https://wit.ai/docs/quickstart) so that it gets sent directly to your Concur expense
+Concur + SecureKey | Tighten your own Concur Expense/Travel app with [Securekey](http://developer.securekey.com/development/api-guides/)
 
 [Back to Top](#top)
 
-<a name="terms" href="http://1drv.ms/1moVAR8">Contest Terms and Conditions</a>
+<a name="sponsors">#APIConSF Sponsor API Links and Prizes</a>
+--
+
+Sponsor  | Prizes
+------------- | -------------
+[Concur Technologies](http://bit.ly/ConcurDisrupt)   | $500 Amazon gift card to winning team
+[Evernote](http://dev.evernote.com/) | (1) iPad per team member
+[Getty Images](http://api.gettyimages.com/) | $1,000 to one team
+[Nexmo](https://www.nexmo.com/) | (1) Mini Jambox per team member
+[Twitter](https://dev.twitter.com/) | To be announced
+[PubNub](http://www.pubnub.com/developers/) | To be announced
+[Eagle Eye Networks](http://www.eagleeyenetworks.com/support/api-docs/) | $1,000 cash to one team
+[Mojio](https://sandbox.developer.moj.io/) | To be announced
+[Orchestrate](https://orchestrate.io/docs/api/) | 1 year subscription to Orchestrate database per team member
+[Wit.ai](https://wit.ai/docs/quickstart) | To be announced
+[SecureKey](http://developer.securekey.com/development/api-guides/) | 1st place: $1000 AMEX Gift Card, 2nd place: $600 AMEX Gift Card, 3rd place: $400 AMEX Gift Card + all winning teams receive 1 year license of briidge.net CONNECT ID Digital Service
+
+[Back to Top](#top)
+
+
 
 **You're set.  Go win this!**
