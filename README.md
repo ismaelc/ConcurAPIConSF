@@ -1,4 +1,4 @@
-<img src="https://jfqcza.bn1.livefilestore.com/y2paqP_3uagi8J3WlP4-pNt4kJoOzRKmuohSQUsrjaegIaoNbNZJ7EXLEflIO6XYAOKM6scpKxbtXPg10RL5OO3A9bc6m-zERVRHUYB1OEGq8s/Concur_Logo_VT_Color_500px.png?psid=1" width="90px" />&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration:none; color:black" name="top" >Concur @ #APIConSF </a> &nbsp;&nbsp;&nbsp;<img src="https://jfqcza.bn1301.livefilestore.com/y2ptjgicP0ebOjYyHeIih7kFg5r2UQWMkL2pdY6M_TPX4tSdTM-NaKW1UF1fiqIdhtiS8mG9uYx1Dzzc-BNKYewC13H-UkBpUx-38WpJITCapA/Screen%20Shot%202014-05-19%20at%203.04.22%20PM.png?psid=1" width="110px" />
+<img src="https://jfqcza.bn1.livefilestore.com/y2paqP_3uagi8J3WlP4-pNt4kJoOzRKmuohSQUsrjaegIaoNbNZJ7EXLEflIO6XYAOKM6scpKxbtXPg10RL5OO3A9bc6m-zERVRHUYB1OEGq8s/Concur_Logo_VT_Color_500px.png?psid=1" width="90px" />&nbsp;&nbsp;&nbsp;<a style="text-decoration:none; color:black" name="top" >Concur @ #APIConSF </a> &nbsp;&nbsp;<img src="https://jfqcza.bn1301.livefilestore.com/y2ptjgicP0ebOjYyHeIih7kFg5r2UQWMkL2pdY6M_TPX4tSdTM-NaKW1UF1fiqIdhtiS8mG9uYx1Dzzc-BNKYewC13H-UkBpUx-38WpJITCapA/Screen%20Shot%202014-05-19%20at%203.04.22%20PM.png?psid=1" width="110px" />
 =========
 <br/>
 This page contains information and links to all the resources you need for the **Concur Contest** in #APIConSF Hackathon:
@@ -7,11 +7,11 @@ This page contains information and links to all the resources you need for the *
   - [What is Concur?](#concur)
   - [What information can I get from the Concur APIs?](#apis)
   - [I'm sold.. How do I get started?](#getstarted)
-  - [Other often-used API calls to check e.g. *POST itinerary information*](#other)
+  - [Often-used APIs e.g. *POST itinerary information*](#other)
   - [Sample code/libraries](#samplecode)
   - [Help! I'm stuck!](#help)
+  - [#APIConSF Sponsor Mashup ideas](#mashup)
   - [#APIConSF Sponsor API Links and Prizes](#sponsors)
-  - [Mashup with fellow sponsors' APIs](#mashup)
 
 <a name="prizes">Best use of Concur API:</a>
 ----
@@ -344,7 +344,7 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
 
 [Back to Top](#top)
 
-<a name="mashup">Mash-up with fellow sponsors' APIs</a>
+<a name="mashup">#APIConSF Sponsor Mashup ideas</a>
 --
 Hit multiple birds with 1 stone with these Concur integration ideas.
 
