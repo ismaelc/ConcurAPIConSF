@@ -316,6 +316,7 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
 - [Windows 8 C#/XAML](https://github.com/ismaelc/Concur-Windows8-SampleCode)
 - [Objective-C/iOS](https://github.com/concurtech/mobile-samples)
 - [C#](https://github.com/concurtech/api-samples)
+- [C#](https://gist.github.com/dberke711/c8d0c9e04c7e76220d4e) (Get OAuth token via native flow)
 - [PHP/curl](http://runnable.com/UtWlKVi9ZnsnAABx/upload-receipts-to-concur-using-php-curl) (in Runnable.com)
 - [Python](https://gist.github.com/Trudeaucj/09c25e79c332e93703a0) (Generate access token)
 - [node.js](https://github.com/sckuo/node-concur)
