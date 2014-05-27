@@ -385,6 +385,7 @@ Sponsor  | Prizes
 [Back to Top](#top)
 
 <a name="rules">Concur Contest Official Rules and Sandbox Signup Form</a>
+--
 
 Please click [here](https://docs.google.com/forms/d/1Xjuw4gOdLBIsdi9ptgYRJq5G7nUUK0VJzJemIQAwNiA/viewform) to view Concur Contest official rules and signup form.
 
